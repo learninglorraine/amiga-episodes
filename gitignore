@@ -1,0 +1,26 @@
+# AmiBlitz / Blitz build artefacts
+*.bak
+*.debug
+*.info
+Blitz2/
+BlitzLibs/
+
+# Build output
+build/
+*.adf
+*.exe
+*.o
+*.lnk
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Capture and video scratch, never commit these
+*.mp4
+*.mov
+*.mkv
+*.wav
